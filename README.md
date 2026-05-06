@@ -17,11 +17,12 @@ pip install requests beautifulsoup4 img2pdf pillow
 ```
 
 ## Usage
-```python -m venv myenv
+```
+python -m venv myenv
 source myenv/bin/activate
 ```
 ```bash
-python manga-final.py
+python main.py
 ```
 
 1. Enter manga name to search
