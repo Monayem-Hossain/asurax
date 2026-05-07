@@ -11,7 +11,7 @@ A Python CLI tool to search and download manga chapters from AsuraScans as PDF f
 - Support for chapter range selection
 ## Install
 ```
-git clone https://github.com/Monayem-Hossain/asurax-linux
+git clone https://github.com/Monayem-Hossain/asurax
 ```
 ## Requirements
 
@@ -21,7 +21,7 @@ pip install requests beautifulsoup4 img2pdf pillow
 
 ## Usage
 ```
-cd asurax-linux
+cd asurax
 ```
 ```
 python -m venv myenv
